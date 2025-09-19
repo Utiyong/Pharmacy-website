@@ -1895,19 +1895,13 @@ const CartPage: React.FC = () => {
 const AboutUsPage: React.FC = () => {
   const pharmacists = [
     {
-      name: "Dr. Sarah Johnson",
+     name: "Pharmacist Dora Okafor",
       title: "Chief Pharmacist",
-      experience: "15 years",
+      experience: "12 years",
       specialization: "Clinical Pharmacy",
       image: "/api/placeholder/200/200",
     },
-    {
-      name: "Dr. Michael Chen",
-      title: "Senior Pharmacist",
-      experience: "12 years",
-      specialization: "Oncology Pharmacy",
-      image: "/api/placeholder/200/200",
-    },
+    
   ];
 
   return (
