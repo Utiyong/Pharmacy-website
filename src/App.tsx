@@ -10,7 +10,6 @@ import {
   Clock,
   Heart,
   Shield,
-  Truck,
   Star,
   ChevronDown,
   ChevronUp,
