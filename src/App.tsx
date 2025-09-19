@@ -2580,7 +2580,7 @@ const Footer: React.FC = () => {
               </div>
               <div className="flex items-center">
                 <MapPin className="h-4 w-4 mr-2" />
-                <span>9A North Avenue Apapa Lagos, Nigeria</span>
+                <span>33 Borno Crescent Apapa, Lagos, Nigeria.<br /> 9A North Avenue Apapa, Lagos, Nigeria</span>
               </div>
             </div>
           </div>
